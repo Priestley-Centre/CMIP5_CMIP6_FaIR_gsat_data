@@ -6,6 +6,6 @@ The data in this repository was processed as part of the EU-funded CONSTRAIN pro
 
 # FaIR GSAT data
 
-Time-series of annual GSAT anomalies for 500 FaIR simple model historical, SSP1-2.6, and SSP5-8.5 simulations. The 500 simulations were generated from a broad uncertainty analysis of possible futures, based on lines of evidence for ECS, TCR, and radiative forcing updated from those used in similar analysis for IPCC SR1.5.
+Time-series of annual GSAT anomalies for 500 FaIR simple model historical, SSP1-2.6, and SSP5-8.5 simulations. The 500 simulations were generated from a broad uncertainty analysis of possible futures, based on lines of evidence for ECS, TCR, and radiative forcing updated from those used in similar analysis for IPCC SR1.5. Anomalies are calculated with respect to 1850-1900.
 
 
