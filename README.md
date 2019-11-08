@@ -8,4 +8,6 @@ The data in this repository was processed with funding from the European Unionâ€
 
 Time-series of annual GSAT anomalies for 500 FaIR simple model historical, SSP1-2.6, and SSP5-8.5 simulations. The 500 simulations were generated from a broad uncertainty analysis of possible futures, based on lines of evidence for ECS, TCR, and radiative forcing updated from those used in similar analysis for IPCC SR1.5. Anomalies are calculated with respect to 1850-1900.
 
+The figure 'plots_fair_median_timeseries.pdf' shows that while CMIP5 and CMIP6 employed slightly different emission scenarios, FaIR simulations suggest that this has a minimal effect on the projected CMIP6 and CMIP5 differences. 
+
 
